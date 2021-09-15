@@ -1,2 +1,2 @@
 # Licuadora-re-piola
-Practicando...
+bueno, estaba viendo ejercicios piola para practicar en javascript pero me parecia todo re normie re ortiva, osea, botones que cambian de color y todas esas giladas. hasta que encontre un increible señor que hacia una super licuadora y , era maso menos la misma pelotudes que el boton que cambia de color, pero con estilo. y si voy a ser junior voy a ser una junior con mucha personalidad. esta super licuadora tiene sonido y todo y disfrute mucho haciendola sjsjs.
